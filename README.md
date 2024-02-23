@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OluConquer
+- 👋 Hi, I’m @OluSmartDev
 - 👀 I’m interested in Full Stack Web Development & Web3
 - 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, Python
 - 💞️ I’m looking to collaborate on Open Source Projects
