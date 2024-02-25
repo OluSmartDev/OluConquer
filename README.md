@@ -2,9 +2,9 @@
 - 👀 I’m interested in Full Stack Web Development & Web3
 - 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, Python
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: @OluConquer
+- 📫 How to reach me: @OluSmartDev
 
 <!---
-OluConquer/OluConquer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OluSmartDev/OluSmartDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
